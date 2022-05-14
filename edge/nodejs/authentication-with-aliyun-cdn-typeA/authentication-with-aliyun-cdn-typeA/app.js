@@ -7,7 +7,7 @@ const Response403 = {
     statusDescription: 'Access Denied'
 };
 //Set the secret key, for example '1234567'
-const privateKey = '1234567';
+const privateKey = 'tqkkvnxaerkgvkqq';
 //Set the seconds of expiration time , for example, if you set the access time to 2020-08-15 15:00:00, the link will actually expire at 2020-08-15 15:30:00.
 const expirationTime = 30 * 60
 
